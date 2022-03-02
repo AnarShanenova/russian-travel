@@ -1,0 +1,5 @@
+@media screen and (max-width: 426px) {
+  .place__image-box {
+    margin: 0 -24px;
+  }
+}

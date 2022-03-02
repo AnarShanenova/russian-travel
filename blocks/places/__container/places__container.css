@@ -1,0 +1,22 @@
+.places__container {
+  margin-top: 92px;
+  margin-bottom: 92px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 80px;
+}
+
+@media screen and (max-width: 900px) {
+  .places__container {
+    margin-top: 88px;
+    margin-bottom: 90px;
+    gap: 73px;
+  }
+}
+@media screen and (max-width: 426px) {
+  .places__container {
+    margin-top: 64px;
+    margin-bottom: 66px;
+    gap: 50px;
+  }
+}
