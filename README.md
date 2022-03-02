@@ -14,3 +14,5 @@
 * Grid Layout
 * Flexbox
 * Figma
+
+[Посмотреть проект](https://anarshanenova.github.io/russian-travel/ "Путешествие по России")
